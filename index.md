@@ -10,14 +10,14 @@ country: "gb"      # lowercase two-letter ISO country code such as "fr" (see htt
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
 latitude: "51.521897"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-0.134133"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "June 10-11, 2026"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "November 09-10, 2026"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:30am - 5:00 pm BST"  # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
-startdate: 2026-06-10      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2026-06-11        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+startdate: 2026-11-09      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2026-11-10        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Kimberly Meechan", "Stella Prins", "Stephen Thompson"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Kimberly Meechan", "Stella Prins", "Stephen Thompson", "Dave Cash"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["k.meechan@ucl.ac.uk", "arc.education@ucl.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes: https://hackmd.io/@jO-Ejf-rTtugWIxtqy7J_w/ByL97kpTWg  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+collaborative_notes: https://hackmd.io/@jO-Ejf-rTtugWIxtqy7J_w/SyJK0Ja5fx  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 tickettailor:         # Optional: url bit that points to tickettailor event "1234567/abc/1100"
 pretix:               # Optional: url bit that points to pretix event "organisation/eventid"
@@ -250,8 +250,8 @@ Modify the block below if there are any special requirements.
     Participants must have access to a computer with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% endif %}
-  Before joining the course, please follow the instructions on the 
-<a href="https://healthbioscienceideas.github.io/microscopy-novice/index.html">the lesson homepage</a>. 
+  Before joining the course, please follow the 
+<a href="https://hackmd.io/@jO-Ejf-rTtugWIxtqy7J_w/SJu1ega9Gl">installation instructions</a>. 
 This will guide you through setting up the required software, and downloading the required data. 
 If you would prefer to work through this with an instructor's help, please join the drop-in session at 09:30am on the first day of the course.
 </p>
