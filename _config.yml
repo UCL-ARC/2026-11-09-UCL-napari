@@ -126,7 +126,7 @@ cc_by_human: "https://creativecommons.org/licenses/by/4.0/"
 
 # Surveys.
 pre_survey: ""
-post_survey: "https://forms.office.com/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwnS2lhZe1LxOq6waMK9mAphUOTNPUUhLN1VXSFhXM0ZEUExCSjY5NjM2Uy4u"
+post_survey: "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwnS2lhZe1LxOq6waMK9mAphUNjFJVDk1RzZBU1E1SjNJUllLN1FPNzhQMC4u"
 
 # Start time in minutes (0 to be clock-independent, 540 to show a start at 09:00 am).
 start_time: 0
