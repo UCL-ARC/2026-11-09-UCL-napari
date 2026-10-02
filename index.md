@@ -4,7 +4,7 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "UCL"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "B07 - Teal Room, UCL Torrington Place Training Centre, 1-19 Torrington Place, Fitzrovia, London WC1E 7HB"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+address: "Room B08, UCL Torrington Place Training Centre, 1-19 Torrington Place, Fitzrovia, London WC1E 7HB"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 flag_in_person: "true"    # Provide "true" to include text in the general information, stressing the workshop is in-person attendance only.
 country: "gb"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
@@ -233,7 +233,7 @@ This block displays the date and links to Google Calendar.
 
 <p id="signup">
   <strong>Signup:</strong>
-  To signup for the course, please <a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwvnoJDlLON9InMiiS6lBDL5UMUJXT04zTjVWR01ENUVSNFU4VjFIOTZWTS4u">fill out the registration form</a>. The deadline for registration is <strong>5pm on 27th May</strong>, and selected participants will be informed by the 29th May.
+  To signup for the course, please <a href="https://forms.cloud.microsoft/e/Yw1gaMrqtW">fill out the registration form</a>. The deadline for registration is <strong>5pm on 19 Oct</strong>, and selected participants will be informed by the 21 Oct.
 </p>
 
 {% comment %}
